@@ -1,4 +1,4 @@
-# PyBer_Analysis
+# PYBER_CHALLENGE
 
 ## Overview of the Analysis:
 
@@ -59,6 +59,6 @@ a. Greater costs for using PyBer in rural cities could discourage potential ride
 
 b.	Higher fare prices in rural areas could be a potential factor for urban city drivers to potentially move into rural cities resulting in shortage of ride amongst urban riders. Perhaps, incentives (bonus) to city drivers could prevent this from happening.
 
-## Additional analysis requirement:
+## Additional Analysis Requirement:
 
 a.	Factors that are contributing to the high ride costs in rural cities such as travel distance can also be analyzed, however it is missing in the dataset.
